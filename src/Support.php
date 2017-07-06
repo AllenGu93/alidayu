@@ -19,7 +19,7 @@ class Support
     protected $session;
 
     /**
-     * session
+     * hasher
      * @var Hasher
      */
     protected $hasher;
